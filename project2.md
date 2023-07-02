@@ -37,4 +37,4 @@ Create the root web directory for your_domain as follows:
 
 sudo mkdir /var/www/projectLEMP
 
-![Screenshotsamproject2 2023-07-01 150109](https://github.com/Emevorboy/DevOps_project.samson/assets/103654905/2d8e3b59-35db-4ae8-9665-2ca79ac1bd68)
+![Screenshotsam2projectecho 2023-07-01 151521](https://github.com/Emevorboy/DevOps_project.samson/assets/103654905/c3a88135-03b5-4b1f-87ed-d6af9a6a99f8)
