@@ -14,4 +14,4 @@ Now that you have a web server up and running, you need to install a Database Ma
 
 ![Screenshotsam2projectecho 2023-07-01 151521](https://github.com/Emevorboy/DevOps_project.samson/assets/103654905/a1741f2c-7005-424c-94e1-4e6b29dc33bb)
 
-![Screenshotsamproject2 2023-07-01 150109](https://github.com/Emevorboy/DevOps_project.samson/assets/103654905/e155e227-3605-4899-aebe-e45f38dd18cd)
+![Screenshotpjtest 2023-07-01 104609](https://github.com/Emevorboy/DevOps_project.samson/assets/103654905/733b6f81-a756-4d57-b2ed-9824e84bca6f)
