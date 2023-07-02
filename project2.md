@@ -5,3 +5,10 @@ In order to display web pages to our site visitors, we are going to employ Nginx
 
 Since this is our first time using apt for this session, start off by updating your server’s package index. Following that, you can use apt install to get Nginx installed:
 ![Screenshotpjtest 2023-07-01 104609](https://github.com/Emevorboy/DevOps_project.samson/assets/103654905/a72a71e8-57d1-403d-a93b-61f401cdc450)
+
+
+
+# STEP 2 — INSTALLING MYSQL
+Now that you have a web server up and running, you need to install a Database Management System (DBMS) to be able to store and manage data for your site in a relational database. MySQL is a popular relational database management system used within PHP environments, so we will use it in our project.
+
+![Screenshotsamproject2 2023-07-01 150109](https://github.com/Emevorboy/DevOps_project.samson/assets/103654905/a46ede20-c75b-4042-813d-36a3ceec5864)
