@@ -51,3 +51,14 @@ You can do this by creating a test PHP file in your document root. Open a new fi
 sudo nano /var/www/projectLEMP/info.php
 
 ![Screenshotsamprojectphp 2023-07-01 152030](https://github.com/Emevorboy/DevOps_project.samson/assets/103654905/9bc8de5f-a1b4-41c2-b71f-a85cf8ffb1f4)
+
+# STEP 6 – RETRIEVING DATA FROM MYSQL DATABASE WITH PHP (CONTINUED)
+
+Step 6 — Retrieving data from MySQL database with PHP
+In this step you will create a test database (DB) with simple “To do list” and configure access to it, so the Nginx website would be able to query data from the DB and display it.
+
+At the time of this writing, the native MySQL PHP library mysqlnd doesn’t support caching_sha2_authentication, the default authentication method for MySQL 8. We’ll need to create a new user with the mysql_native_password authentication method in order to be able to connect to the MySQL database from PHP.
+
+We will create a database named example_database and a user named example_user, but you can replace these names with different values.
+
+![Screenshotsamtodolist 2023-07-02 131356](https://github.com/Emevorboy/DevOps_project.samson/assets/103654905/7e545215-3f09-472d-b23c-078a35783356)
