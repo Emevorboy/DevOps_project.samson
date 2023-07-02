@@ -24,7 +24,6 @@ To install these 2 packages at once, run:
 
 sudo apt install php-fpm php-mysql
 
-![Screenshotsamprojectphp 2023-07-01 152030](https://github.com/Emevorboy/DevOps_project.samson/assets/103654905/9bc8de5f-a1b4-41c2-b71f-a85cf8ffb1f4)
 
 # STEP 4 — CONFIGURING NGINX TO USE PHP PROCESSOR
 
@@ -38,3 +37,17 @@ Create the root web directory for your_domain as follows:
 sudo mkdir /var/www/projectLEMP
 
 ![Screenshotsam2projectecho 2023-07-01 151521](https://github.com/Emevorboy/DevOps_project.samson/assets/103654905/c3a88135-03b5-4b1f-87ed-d6af9a6a99f8)
+
+# STEP 5 – TESTING PHP WITH NGINX
+Step 5 – Testing PHP with Nginx
+Your LEMP stack should now be completely set up.
+
+At this point, your LAMP stack is completely installed and fully operational.
+
+You can test it to validate that Nginx can correctly hand .php files off to your PHP processor.
+
+You can do this by creating a test PHP file in your document root. Open a new file called info.php within your document root in your text editor:
+
+sudo nano /var/www/projectLEMP/info.php
+
+![Screenshotsamprojectphp 2023-07-01 152030](https://github.com/Emevorboy/DevOps_project.samson/assets/103654905/9bc8de5f-a1b4-41c2-b71f-a85cf8ffb1f4)
